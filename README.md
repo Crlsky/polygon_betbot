@@ -4,9 +4,6 @@
 
 <h2>How it work?</h2>
 
-
-***
-
 <p>When you run it you just follow by instructions. You select how much money you want to bet, on which colour first to bet and you can leave it.</p> 
 
 
@@ -29,8 +26,6 @@ So it's go like this:
   - bet 5  on BLACK etc...
 
 <h2>How to run it</h2>
-
-***
 
 You need to open JavaScript console in your browser. According what browser you have there are diffrent shortcuts:
 
