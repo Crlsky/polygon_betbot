@@ -26,7 +26,7 @@ function clearing(){
 function first_time(){             
 	s = "nd ";
 	var count =  parseInt(document.getElementById('balance_r').innerHTML);
-	send('chat', {msg: k+s+a+d+c+x+" "+parseInt(count*10/100),});
+	send('chat', {msg: k+s+a+d+c+x+" "+parseInt(count*5/100),});
 
 	var roller = parseInt(document.getElementById('banner').innerHTML.slice(11,13));
 	if(roller>3){
